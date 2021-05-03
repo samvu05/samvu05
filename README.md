@@ -10,10 +10,8 @@ Hi guys, I'm [**Dinh Sam Vu**](https://www.facebook.com/samvu.05/). I am a fresh
 - 📫 How to reach me: [@samvu05](https://www.facebook.com/samvu.05/);
 - 📝 [Resume](https://drive.google.com/file/d/19q1F0D23o9ycu2gUJeTeYX8xLcoDzOEy/view?usp=sharing)
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<h3>📄 Favorite Languages:</h3>
+<p>
+<a target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-%2312100E.svg?logo=Kotlin&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="java" src="https://img.shields.io/badge/Java-%2312100E.svg?logo=Java&style=for-the-badge&logoColor=yellow"/></a> 
+</p>
