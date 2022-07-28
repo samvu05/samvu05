@@ -8,7 +8,6 @@ Hi guys, I'm [**Dinh Sam Vu**](https://www.facebook.com/samvu.05/). I am a Andro
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@samvu05](https://www.facebook.com/samvu.05/);
-- 📝 [Resume](https://drive.google.com/file/d/19q1F0D23o9ycu2gUJeTeYX8xLcoDzOEy/view?usp=sharing)
 
 <h3>📄 Favorite Languages:</h3>
 <p>
